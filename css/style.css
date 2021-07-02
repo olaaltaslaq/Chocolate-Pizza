@@ -1,0 +1,247 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+}
+
+#plong{
+   margin-left: 50px;
+   margin-top: -42px;
+}
+
+#deli{
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#best{
+    font-size: 12px;
+    color: grey; 
+}
+
+#sm{
+    margin-left: 670px;
+   margin-top: -25px;
+}
+
+#re{
+   margin-left: 850px;
+   margin-top: -26.5px;
+}
+
+#line{
+    margin-top: 30px;
+    align-items:center; 
+    margin-right: 500px;
+}
+ 
+hr{
+    background-image: url("/img/hr-img.png");
+    padding: 5px;
+    width: 903px;
+} 
+
+#chopiz{
+    margin-top: 50px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#post{
+    font-size: 15px;
+    color: grey; 
+}
+
+
+#plogo{
+  margin-left: 830px;
+  margin-top: -25px;
+}
+
+#ptalk{
+    margin-left: 850px;
+    margin-top: -15px;
+    font-size: 15px;
+    color: grey;
+}
+
+#bigimg{
+    margin-top: 40px;
+}
+
+#ps{
+    width: 910px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    font-size: 20px;
+    color: grey; 
+}
+
+#p1{
+    margin-bottom: 30px;
+    text-indent: 50px;
+}
+
+#p2{
+    margin-bottom: 30px;
+    text-indent: 50px;
+}
+
+#p3{
+    margin-bottom: 30px;
+    text-indent: 50px;
+}
+
+#floatl{
+    font-family: 'Yellowtail', cursive;
+    font-size: 18px;
+}
+
+
+#cupsmilk{
+    margin-top: -260px;
+    margin-left: 35px;
+    margin-bottom: 7px;
+}
+
+#cupmascarpone{
+    margin-top: 5px;
+    margin-left: 35px;
+    margin-bottom: 7px;
+}
+
+#tsppinksalt{
+    margin-left: 35px;
+    margin-bottom: 7px;
+}
+
+#blackmissionfigs{
+    margin-left: 35px;
+    margin-bottom: 7px;
+}
+
+#cupbrownsugar{
+    margin-left: 35px;
+    margin-bottom: 7px;
+}
+
+#tbspwater{
+    margin-left: 35px;
+    margin-bottom: 7px;
+}
+
+#floatr{
+    margin-top: -182px;
+    margin-left: 500px;
+    margin-bottom: 7px;
+    font-family: 'Yellowtail', cursive;
+    font-size: 18px;
+}
+ 
+#cupsheavycream{
+    margin-bottom: 7px;
+} 
+
+#granulatedsugar{
+    margin-bottom: 7px;
+}
+
+#eggyolks{
+    margin-bottom: 7px;
+}
+
+#lemon{
+    margin-bottom: 7px;
+}
+
+#tbspbutter{
+    margin-bottom: 7px;
+}
+
+#cuphoney{
+    margin-bottom: 7px;
+}
+
+#line2{
+    margin-top: 50px;
+    align-items:center; 
+    margin-right: 500px;
+    margin-bottom: 30px;
+   
+}
+
+#sharebutton{
+    color:   #ffe96b;
+    background-color: rgb(107, 34, 0);
+    padding: 12px 24px;
+    margin-top: 16px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#vsp{
+    margin-left: 95px;
+    margin-top: -60px;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(85, 85, 85); 
+}
+
+#vst{
+    margin-right: 100px;
+    margin-top: 10px;
+    font-size: 18px;
+    padding-left: 12%;
+    color: grey; 
+}
+
+#sbutton{
+    margin-left: 715px;
+    margin-top: -80px;
+    width: 200px;
+}
+
+#vanpart{
+ margin-bottom: 100px;
+}
+
+#smalllogo{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+#smallline{
+    padding: 0px;
+    width: 903px;
+    margin-top: -18px;
+}
+
+footer{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: rgb(145, 145, 145);
+  margin-left: 335px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#last{
+    margin-left: 30px;
+}
+
